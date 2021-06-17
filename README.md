@@ -1,0 +1,2 @@
+# satodal
+$termux.com
